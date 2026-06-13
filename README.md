@@ -4,6 +4,7 @@
 
 Harbor Commons is an open data platform for sailing and maritime nonprofit infrastructure.
 It makes public records legible for practitioners, boards, funders, and researchers who need a field-level view but do not have in-house data capacity.
+Currently scoped to waterfront and community organizations; expanding by sector.
 
 ## Why it exists
 
@@ -22,7 +23,7 @@ Sailing is Example 1. The method is portable.
 - **Practitioners** who need peer benchmarks, organization lookup, or funding context
 - **Boards and committees** who need a broader view of the field
 - **Funders and researchers** who want receipts-first, source-linked public infrastructure
-- **Other sectors** looking for a worked example of field-level nonprofit intelligence
+- **Other sectors** looking for a worked example of field-level nonprofit infrastructure
 
 ## What this repo is
 
